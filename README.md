@@ -6,4 +6,4 @@ html and css work were made by https://github.com/aliourhzal
 
 games and flask implementation were made by me !
 
-website : https://hiroster.herokuapp.com
+website : https://hrogus.herokuapp.com
